@@ -10,7 +10,6 @@ Players can easily **lock and unlock** their owned or job vehicles using a singl
 * 🔒 Lock & unlock vehicles with a realistic key fob animation
 * 🚗 Ownership check directly from the database (`owned_vehicles`)
 * 👮 Supports job vehicles defined in `config.lua`
-* ⚙️ No dependency on TS_Framework or Discord roles
 * 💬 Clean ESX notification messages
 * 🧩 Fully optimized and standalone within the ESX ecosystem
 
