@@ -47,5 +47,5 @@ Players can easily **lock and unlock** their owned or job vehicles using a singl
 
 ### 🧠 Credits
 
-Developed by **[YourNameHere]**
+Developed by **@JzstZer0**
 Open-source and free to use.
