@@ -3,6 +3,7 @@ game 'gta5'
 
 author 'JzstZer0'
 description 'a simple FiveM vehicle key system'
+version '1.0'
 
 server_scripts {
     '@mysql-async/lib/MySQL.lua',
@@ -19,3 +20,4 @@ client_scripts {
 shared_script 'config.lua'
 
 lua54 'yes'
+
